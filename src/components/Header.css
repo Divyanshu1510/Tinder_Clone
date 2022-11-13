@@ -1,0 +1,22 @@
+.tinder-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #444444;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.8);
+    
+}
+
+.tinder-header img{
+    height: 40px;
+    object-fit: contain;
+}
+
+.header-icon{
+    padding : 3vw;
+}
+
+.tinder-header .header-icon{
+    color: rgba(0, 0, 0, 0.7);
+}
